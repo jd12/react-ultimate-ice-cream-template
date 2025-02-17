@@ -4,8 +4,6 @@ This is the project build application for the Ultimate Courses React Basics cour
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Although you can use `npm` this project currently contains a `yarn.lock` file and therefore prefers [Yarn](https://yarnpkg.com/en/). Feel free to delete the lock file if you prefer `npm` and know how it works.
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -49,7 +47,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 The project contains a [Node](https://nodejs.org/en/) [Express](https://expressjs.com/) server with a number of RESTfull endpoints that provides all the data the application requires.
 
-The server must be started on port `5000` for the application to function. This can be achieved by running the `start-server` command.
+The server must be started on port `8000` for the application to function. This can be achieved by running the `start-server` command.
 
 ### `npm format`
 
